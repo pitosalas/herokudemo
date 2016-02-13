@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 ruby '2.2.3' # or whatever your version is
 
 gem 'pg', group: :production
-gem 'sqlite3', group: :developent
+gem 'sqlite3', group: :development
 gem 'rails_12factor', group: :production
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
